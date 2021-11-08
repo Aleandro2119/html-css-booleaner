@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+/*Intestazione*/
 .logo {
     width: 200px;
     height: 200px;
@@ -13,4 +14,19 @@ header{
     background-image: url("../img/pattern.png");
     width: auto;
     height: 170px;
+}
+
+/*Sezione 1*/
+#colore{
+    font-size: 14px;
+    color: darkgray;
+}
+
+#colore2{
+    font-size: 14px;
+    color: cyan;
+}
+
+#didascalia{
+    font-size: 12px;
 }
