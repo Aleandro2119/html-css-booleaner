@@ -37,3 +37,25 @@ mark{
     color: black;
 }
 
+/*Sezione3*/
+th{
+    background-color: lightseagreen;
+    width: 500px;
+    text-align: left;
+    color: white;
+
+}
+
+.colore3{
+    background-color: lightskyblue;
+    width: 500px;
+    text-align: left;
+    color: black;
+}
+
+.colore4{
+    background-color: lightskyblue;
+    width: 500px;
+    text-align: left;
+    color: black;
+}
