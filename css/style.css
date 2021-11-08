@@ -59,5 +59,28 @@ th{
     text-align: left;
     color: black;
 }
+/*footer*/
 
+h3{
+    color: lightslategrey;
+    font-size: 18px;
+}
 
+/*footer*/
+    
+.container {
+
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+  
+  
+ 
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 22px;
+  }
+  
